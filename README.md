@@ -58,3 +58,9 @@ The info section contains two elements: and h1 that displays text, and a contain
 The quote section contains two p elements, one for the text and the other for the author.
 
 ![The quote section sketch](design-process/05-quote.png)
+
+## The sign-up section
+
+This section contains two containers, one for the text and one for the button.
+
+![The sign-up section sketch](design-process/06-sign.png)

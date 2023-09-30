@@ -47,3 +47,9 @@ The first element contains:
 
 ![The title section sketch](design-process/03-title.png)
 
+## The information section 
+
+The info section contains two elements: and h1 that displays text, and a container where images are shown.
+
+![The info section sketch](design-process/04-information.png)
+

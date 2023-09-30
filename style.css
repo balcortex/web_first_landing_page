@@ -81,3 +81,36 @@ div{
     justify-content: center;
     align-self: center;
 }
+
+
+
+/* Information section */
+.info{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 0px 200px;
+}
+.info .container{
+    display: flex;
+}
+
+.info .container .item{
+    display: flex;
+    flex-direction: column;
+}
+
+.info .container .item .image{
+    align-self: center;
+    border: 2px solid #3882F6;
+    border-radius: 10px;
+    width: 120px;
+    flex-basis: 120px;
+    margin-bottom: 0px;
+}
+
+.item p{
+    /* max-width: 180px; */
+    margin-top: 0px;
+    padding: 0 40px;
+}

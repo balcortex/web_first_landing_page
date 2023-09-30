@@ -53,3 +53,8 @@ The info section contains two elements: and h1 that displays text, and a contain
 
 ![The info section sketch](design-process/04-information.png)
 
+## The quote section
+
+The quote section contains two p elements, one for the text and the other for the author.
+
+![The quote section sketch](design-process/05-quote.png)

@@ -30,3 +30,20 @@ The navigation bar is composed of two flex containers.
 The first container will display the logo only.
 
 The other container will have three items for the links.
+
+![The navigation bar sketch](design-process/02-nav-bar.png)
+
+## The title section
+
+The title section contains two elements, one for displaying the text, and another for an image.
+
+The second container just contains the element itself.
+
+The first element contains:
+
+* h1 for the title
+* p for the text
+* a button (sign up)
+
+![The title section sketch](design-process/03-title.png)
+

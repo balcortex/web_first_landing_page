@@ -64,3 +64,9 @@ The quote section contains two p elements, one for the text and the other for th
 This section contains two containers, one for the text and one for the button.
 
 ![The sign-up section sketch](design-process/06-sign.png)
+
+# The footer section
+
+This section only contains an element that displays text
+
+![The footer section sketch](design-process/07-footer.png)
